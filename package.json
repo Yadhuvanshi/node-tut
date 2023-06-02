@@ -1,0 +1,26 @@
+{
+  "name": "tut",
+  "version": "1.0.0",
+  "description": "node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Yadhuvanshi/Node-Js-Basic.git)"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "shivamm yadav",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
